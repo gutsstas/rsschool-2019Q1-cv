@@ -24,5 +24,5 @@ E-mail: gutsstas@mail.ru
 * [Javascript](learn.javascript.ru)
 * YouTube video lessons
 
-##Additional information
+## Additional information
 English - Pre-Intermediate. At the moment I study with the tutor 2 times a week

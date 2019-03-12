@@ -45,7 +45,9 @@ a {
 main{
 	width: 1024px;
 }
-
+a:hover{
+	color: #a4c2f2;
+}
 .figure{
 	display: flex;
 	justify-content: space-between;
